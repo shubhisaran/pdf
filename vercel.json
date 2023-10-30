@@ -1,0 +1,9 @@
+{
+  "routes": [
+    {
+      "src": "/",
+      "headers": { "Location": "/temp.pdf" },
+      "status": 302
+    }
+  ]
+}
