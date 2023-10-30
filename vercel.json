@@ -2,7 +2,7 @@
   "routes": [
     {
       "src": "/",
-      "headers": { "Location": "/temp.pdf" },
+      "headers": { "Location": "/in_1O2BhIGjQawimwZRT3Ituza6.pdf" },
       "status": 302
     }
   ]
