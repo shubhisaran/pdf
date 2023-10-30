@@ -2,7 +2,7 @@
   "routes": [
     {
       "src": "/",
-      "headers": { "Location": "/in_1O2BhIGjQawimwZRT3Ituza6.pdf" },
+      "headers": { "Location": "/final-audit-report.pdf" },
       "status": 302
     }
   ]
